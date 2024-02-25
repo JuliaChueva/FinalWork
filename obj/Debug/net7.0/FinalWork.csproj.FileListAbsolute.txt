@@ -1,0 +1,14 @@
+C:\Users\поиск\Desktop\FinalWork\bin\Debug\net7.0\FinalWork.exe
+C:\Users\поиск\Desktop\FinalWork\bin\Debug\net7.0\FinalWork.deps.json
+C:\Users\поиск\Desktop\FinalWork\bin\Debug\net7.0\FinalWork.runtimeconfig.json
+C:\Users\поиск\Desktop\FinalWork\bin\Debug\net7.0\FinalWork.dll
+C:\Users\поиск\Desktop\FinalWork\bin\Debug\net7.0\FinalWork.pdb
+C:\Users\поиск\Desktop\FinalWork\obj\Debug\net7.0\FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\поиск\Desktop\FinalWork\obj\Debug\net7.0\FinalWork.AssemblyInfoInputs.cache
+C:\Users\поиск\Desktop\FinalWork\obj\Debug\net7.0\FinalWork.AssemblyInfo.cs
+C:\Users\поиск\Desktop\FinalWork\obj\Debug\net7.0\FinalWork.csproj.CoreCompileInputs.cache
+C:\Users\поиск\Desktop\FinalWork\obj\Debug\net7.0\FinalWork.dll
+C:\Users\поиск\Desktop\FinalWork\obj\Debug\net7.0\refint\FinalWork.dll
+C:\Users\поиск\Desktop\FinalWork\obj\Debug\net7.0\FinalWork.pdb
+C:\Users\поиск\Desktop\FinalWork\obj\Debug\net7.0\FinalWork.genruntimeconfig.cache
+C:\Users\поиск\Desktop\FinalWork\obj\Debug\net7.0\ref\FinalWork.dll
